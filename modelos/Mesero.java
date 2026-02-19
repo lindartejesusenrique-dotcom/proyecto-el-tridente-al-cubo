@@ -1,5 +1,3 @@
-
-
 public class Mesero extends Usuario {
 
     public int id_mesero;
